@@ -40,7 +40,7 @@ Implementation of numerical algorithms in Python (Jupyter Notebook) for solving 
   Numerical construction of the Uniformly Most Powerful Unbiased (UMPU) test with empirical Monte Carlo power curve verification.<br>
   *Course: Testing Statistical Hypotheses · Language: R*
 
-* **[Numerical Stability Analysis](https://github.com/wiolettasudol0/Numerical-Stability-Analysis-RK4-vs.-AB3-Schemes)**  <br>
+* [Numerical Stability Analysis](https://github.com/wiolettasudol0/Numerical-Stability-Analysis-RK4-vs.-AB3-Schemes)  <br>
   Algebraic stability regions and step-halving convergence analysis of RK4 and AB3 solvers applied to the non-linear Trachenko-Zaccone equation.<br>
   *Course: Numerical Methods for Ordinary Differential Equations · Language: R*
 
@@ -48,4 +48,6 @@ Implementation of numerical algorithms in Python (Jupyter Notebook) for solving 
   Systematic schema decomposition of a hotel reservation system from UNF to 3NF eliminating functional and transitive dependencies.<br>
   *Course: Databases · Language: SQL*
 
-
+* **[Discrete Delta-Hedging Simulation in the Black-Scholes Model](https://github.com/wiolettasudol0/Discrete-Delta-Hedging)** <br>
+ Numerical replication of European call options under discrete rebalancing, analyzing hedging error distribution and performance under  proportional transaction costs.  <br>
+*Course: Databases · Language: Python*
