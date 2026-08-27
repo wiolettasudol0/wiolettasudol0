@@ -50,4 +50,4 @@ Implementation of numerical algorithms in Python (Jupyter Notebook) for solving 
 
 * **[Discrete Delta-Hedging Simulation in the Black-Scholes Model](https://github.com/wiolettasudol0/Discrete-Delta-Hedging)** <br>
  Numerical replication of European call options under discrete rebalancing, analyzing hedging error distribution and performance under  proportional transaction costs.  <br>
-*Course: Databases · Language: Python*
+*Course: Modeling and Simulation in Finance · Language: Python*
